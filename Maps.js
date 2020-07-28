@@ -7,7 +7,7 @@
 
    What Maps Are in Es6 ?
    vary common use of objects is to use them as
-   Has Maps
+   Hash Maps
    which simply means that you maps string keys
    to opertery values
 
